@@ -1,0 +1,5 @@
+.env*
+.gitignore
+project-logo.png
+README.md
+.github/
